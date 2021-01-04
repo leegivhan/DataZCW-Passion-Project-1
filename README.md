@@ -1,6 +1,6 @@
 # DataZCW-Passion-Project-1
 ## Mutual Musical Match
-#### Predictive analytics tool for musicians to find mutual contacts that will like their music.
+### Predictive analytics tool for musicians to find mutual contacts that will like their music.
 
 Friends inviting friends to concerts has been a great way for musicians to grow their audiences. Now that concerts are not happening due to Covid, artists need new ways to connect to new fans. My passion project is a predictive analytics tool for musicians to see friends of friends that are potential fans. The algorithm works in the following steps:
 
